@@ -1,6 +1,6 @@
 # AngularTestingWithJasmin
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10. It follows one of the tutorials I have found on youtube to learn more about Jasmin testing framework for Angular. Jasmin uses Karma to run tests. Karma is the default test runner for applications created using Angular CLI. 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10. It follows one of the tutorials I have found on [youtube](https://www.youtube.com/playlist?list=PLoC8Q0moRTSiTBAKWBGiJjFUMpiFdaGdF) to learn more about Jasmin testing framework for Angular. Jasmin uses Karma to run tests. Karma is the default test runner for applications created using Angular CLI. 
 
 In Jasmin tests are also known as specifications and as in many other testing frameworks they are grouped in test suites. A specification starts with `it` and a test suit starts with `describe`.
 
